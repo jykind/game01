@@ -1,0 +1,8 @@
+{
+  "name": "Remix 행운의 룰렛 - 돌려돌려 돌림판",
+  "description": "점심 메뉴 선택, 내기 벌칙, 순서 추첨까지 즐기는 인터랙티브 룰렛 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
